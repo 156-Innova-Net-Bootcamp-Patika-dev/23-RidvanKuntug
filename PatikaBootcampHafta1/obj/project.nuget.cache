@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpXPaPqjipCnMVe9MrXz32/XLIfvA6Iq0TOIaHiFPqt2BLViIk93PmLDJYYl8qt6P44GusyTDfRUaG+VQhj7Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\PatikaBootcampHafta1\\PatikaBootcampHafta1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ridva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\ridva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
