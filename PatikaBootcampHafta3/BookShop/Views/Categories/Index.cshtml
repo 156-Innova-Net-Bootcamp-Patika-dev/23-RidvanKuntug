@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BookShopModels.Models.Categories>
+
+
+<div class="border p-4 bg-white">
+    <div class="row">
+        <div class="col-9">
+            <h2 class="text-info">Category List</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="UpdateInsert" class="btn btn-primary form-control">Add</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="MultipleInsert" class="btn btn-info form-control">Multiple add</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="MultipleInsert2" class="btn btn-info form-control">Multiple add2</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="Delete" class="btn btn-danger form-control">Delete</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="MultipleDelete" class="btn btn-danger form-control">Multiple Delete</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-3 text-right">
+            <a asp-action="MultipleDelete2" class="btn btn-danger form-control">Multiple Delete2</a>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col">
+            @if (Model.Count() > 0)
+            {
+                <table class="table">
+                    <tr class="table-secondary">
+                        <th>Categori Name</th>
+                        <th></th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @item.CategoryName
+                            </td>
+                            <td>
+                                <a class="btn btn-primary text-white" asp-action="UpdateInsert" asp-route-Id="@item.CategoryId">Edit</a>
+                                <a class="btn btn-danger text-white" asp-action="Delete" asp-route-Id="@item.CategoryId">Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>Database is empty</p>
+            }
+        </div>
+    </div>
+</div>
