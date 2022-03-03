@@ -1,0 +1,683 @@
+﻿++Çözüm 'SiteManagementApp' ‎(4 projeden 4 tanesi)
+i:{00000000-0000-0000-0000-000000000000}:SiteManagementApp.sln
+++SiteManagementDomain
+i:{00000000-0000-0000-0000-000000000000}:SiteManagementDomain
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\sitemanagementdomain.csproj
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\sitemanagementdomain.csproj
+++Bağımlılıklar
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:>609
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>870
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>608
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>607
+++Entities
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\
+++Authentications
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\authentications\
+++Apartment.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\apartment.cs
+++Debt.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\debt.cs
+++Message.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\message.cs
+++User.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\user.cs
+++FluentApiConfiguration
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\fluentapiconfiguration\
+++ApartmentConfig.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\fluentapiconfiguration\apartmentconfig.cs
+++DebtConfig.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\fluentapiconfiguration\debtconfig.cs
+++MessageConfig.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\fluentapiconfiguration\messageconfig.cs
+++UserConfig.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\fluentapiconfiguration\userconfig.cs
+++Çerçeveler
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:çerçeveler
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:çerçeveler
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:çerçeveler
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:çerçeveler
+++Çözümleyiciler
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:çözümleyiciler
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:çözümleyiciler
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:çözümleyiciler
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:çözümleyiciler
+++Paketler
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:paketler
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:paketler
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:paketler
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:paketler
+++Role.cs
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\entities\authentications\role.cs
+++Microsoft.NETCore.App
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementdomain\microsoft.netcore.app
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\microsoft.netcore.app
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\microsoft.netcore.app
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\microsoft.netcore.app
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:c:\users\ridva\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++AutoMapper (11.0.1)
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:>925
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>913
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:>923
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>895
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>910
+++Microsoft.EntityFrameworkCore.Relational (5.0.14)
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:>924
+++Microsoft.Extensions.Identity.Stores (5.0.14)
+i:{f844cf0c-5c87-4d2c-9ffd-23760be65706}:>926
+++SiteManagementApi
+i:{00000000-0000-0000-0000-000000000000}:SiteManagementApi
+++Connected Services 
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>871
+++Properties
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\properties\
+++Controllers
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\controllers\
+++ApartmentController.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\controllers\apartmentcontroller.cs
+++DebtController.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\controllers\debtcontroller.cs
+++MessageController.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\controllers\messagecontroller.cs
+++UserController.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\controllers\usercontroller.cs
+++ApiServiceRegistration.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\apiserviceregistration.cs
+++appsettings.json
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\appsettings.json
+++Program.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\program.cs
+++Startup.cs
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\startup.cs
+++Projeler
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:projeler
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:projeler
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:projeler
+++Hizmet bağımlılığı bulunamadı
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>872
+++launchSettings.json
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\properties\launchsettings.json
+++appsettings.Development.json
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\appsettings.development.json
+++Microsoft.AspNetCore.App
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapi\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Analyzers
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.14)
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>885
+++Microsoft.EntityFrameworkCore.Design (5.0.14)
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>883
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>897
+++Swashbuckle.AspNetCore (5.6.3)
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:>884
+++SiteManagementApplication
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\sitemanagementapplication.csproj
+i:{00000000-0000-0000-0000-000000000000}:SiteManagementApplication
+++SiteManagementInfrastructure
+i:{174f20f6-bedb-418d-8ad1-23b45f8c3a36}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\sitemanagementinfrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:SiteManagementInfrastructure
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\sitemanagementinfrastructure.csproj
+++DatabaseContext
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\databasecontext\
+++Migrations
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\
+++InfrastructureServiceRegistration.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\infrastructureserviceregistration.cs
+++ApplicationDbContext.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\databasecontext\applicationdbcontext.cs
+++DataSeed.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\databasecontext\dataseed.cs
+++20220221210211_FirstMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220221210211_firstmig.cs
+++20220222201046_seconMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222201046_seconmig.cs
+++20220222201310_thirtMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222201310_thirtmig.cs
+++20220222203748_fourthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222203748_fourthmig.cs
+++20220222204101_fifthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222204101_fifthmig.cs
+++20220223075746_sixthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223075746_sixthmig.cs
+++20220223150229_sevenMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223150229_sevenmig.cs
+++20220223194810_ninthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223194810_ninthmig.cs
+++20220223201319_tenthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223201319_tenthmig.cs
+++20220224144229_eleventhMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224144229_eleventhmig.cs
+++20220224151856_twelfthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224151856_twelfthmig.cs
+++20220224153933_thirteenthMig.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224153933_thirteenthmig.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\applicationdbcontextmodelsnapshot.cs
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>901
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.14)
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>898
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.14)
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>896
+++Microsoft.EntityFrameworkCore.Tools (5.0.14)
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>900
+++Microsoft.Extensions.Identity.Core (5.0.14)
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:>899
+++20220221210211_FirstMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220221210211_firstmig.designer.cs
+++20220222201046_seconMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222201046_seconmig.designer.cs
+++20220222201310_thirtMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222201310_thirtmig.designer.cs
+++20220222203748_fourthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222203748_fourthmig.designer.cs
+++20220222204101_fifthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220222204101_fifthmig.designer.cs
+++20220223075746_sixthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223075746_sixthmig.designer.cs
+++20220223150229_sevenMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223150229_sevenmig.designer.cs
+++20220223194810_ninthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223194810_ninthmig.designer.cs
+++20220223201319_tenthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220223201319_tenthmig.designer.cs
+++20220224144229_eleventhMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224144229_eleventhmig.designer.cs
+++20220224151856_twelfthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224151856_twelfthmig.designer.cs
+++20220224153933_thirteenthMig.Designer.cs
+i:{fa638e05-7b3a-4a13-9bbd-cd58a4d02d10}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementinfrastructure\migrations\20220224153933_thirteenthmig.designer.cs
+++Almalar
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>253
+++bin
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\
+++Mappings
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\mappings\
+++MappingProfile.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\mappings\mappingprofile.cs
+++obj
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\
+++Operations
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\
+++ApartmentOperations
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\
+++DebtOperations
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\
+++MessageOperations
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\
+++UserOperations
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\
+++Commands
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\
+++Queries
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\
+++GetUser
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\
+++GetAllUserQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getalluserquery.cs
+++GetUserByIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getuserbyidquery.cs
+++GetUserByIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getuserbyidvalidator.cs
+++GetUserByNameQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getuserbynamequery.cs
+++GetUSerByNameValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getuserbynamevalidator.cs
+++GetUserModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\getuser\getusermodel.cs
+++LoginUser
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\loginuser\
+++LoginUserModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\loginuser\loginusermodel.cs
+++LoginUserQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\loginuser\loginuserquery.cs
+++LoginUserValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\queries\loginuser\loginuservalidator.cs
+++Settings
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\settings\
+++JwtSettings.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\settings\jwtsettings.cs
+++ApplicationServiceRegistration.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\applicationserviceregistration.cs
+++Sdk.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\
+++project.assets.json
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\project.assets.json
+++project.nuget.cache
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\project.nuget.cache
+++SiteManagementApplication.csproj.nuget.dgspec.json
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\sitemanagementapplication.csproj.nuget.dgspec.json
+++SiteManagementApplication.csproj.nuget.g.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\sitemanagementapplication.csproj.nuget.g.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\sitemanagementapplication.csproj.nuget.g.props
+++SiteManagementApplication.csproj.nuget.g.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\sitemanagementapplication.csproj.nuget.g.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\sitemanagementapplication.csproj.nuget.g.targets
+++AddUser
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\adduser\
+++ChangeUser
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\changeuser\
+++DeleteUser
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\deleteuser\
+++Microsoft.Common.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>911
+++FluentValidation.AspNetCore (10.3.6)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:>912
+++net5.0
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\
+++AddApartment
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\addapartment\
+++ChangeApartment
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\changeapartment\
+++DeleteApartment
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\deleteapartment\
+++GetApatment
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\
+++AddDebt
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\adddebt\
+++ChangeDebt
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\
+++DelteDebt
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\deltedebt\
+++GetDebt
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\getdebt\
+++AddMessage
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\addmessage\
+++ChangeMessage
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\
+++DeleteMessage
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\deletemessage\
+++GetMeesage
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\
+++AddUserCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\adduser\addusercommand.cs
+++AddUserModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\adduser\addusermodel.cs
+++AddUserValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\adduser\adduservalidator.cs
+++ChangeUserCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\changeuser\changeusercommand.cs
+++ChangeUserModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\changeuser\changeusermodel.cs
+++ChangeUserValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\changeuser\changeuservalidator.cs
+++DeleteUserCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\deleteuser\deleteusercommand.cs
+++DeleteUserValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\useroperations\commands\deleteuser\deleteuservalidator.cs
+++Microsoft.NuGet.ImportBefore.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++SiteManagementApplication.deps.json
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementapplication.deps.json
+++SiteManagementApplication.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementapplication.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\ref\sitemanagementapplication.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\refint\sitemanagementapplication.dll
+++SiteManagementApplication.pdb
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementapplication.pdb
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.pdb
+++SiteManagementDomain.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementdomain.dll
+++SiteManagementDomain.pdb
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementdomain.pdb
+++SiteManagementInfrastructure.dll
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementinfrastructure.dll
+++SiteManagementInfrastructure.pdb
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\bin\debug\net5.0\sitemanagementinfrastructure.pdb
+++ref
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\ref\
+++refint
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\refint\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++SiteManagementApplication.AssemblyInfo.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.assemblyinfo.cs
+++SiteManagementApplication.AssemblyInfoInputs.cache
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.assemblyinfoinputs.cache
+++SiteManagementApplication.assets.cache
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.assets.cache
+++SiteManagementApplication.csproj.AssemblyReference.cache
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.csproj.assemblyreference.cache
+++SiteManagementApplication.csproj.BuildWithSkipAnalyzers
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.csproj.buildwithskipanalyzers
+++SiteManagementApplication.csproj.CopyComplete
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.csproj.copycomplete
+++SiteManagementApplication.csproj.CoreCompileInputs.cache
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.csproj.corecompileinputs.cache
+++SiteManagementApplication.csproj.FileListAbsolute.txt
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.csproj.filelistabsolute.txt
+++SiteManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\obj\debug\net5.0\sitemanagementapplication.generatedmsbuildeditorconfig.editorconfig
+++AddApartmentCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\addapartment\addapartmentcommand.cs
+++AddApartmentModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\addapartment\addapartmentmodel.cs
+++AddApartmentValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\addapartment\addapartmentvalidator.cs
+++ChangeApartmentCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\changeapartment\changeapartmentcommand.cs
+++ChangeApartmentModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\changeapartment\changeapartmentmodel.cs
+++ChangeApartmentValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\changeapartment\changeapartmentvalidator.cs
+++DeleteApartmentCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\deleteapartment\deleteapartmentcommand.cs
+++DeleteApartmentValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\commands\deleteapartment\deleteapartmentvalidator.cs
+++GetAllApartmentQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getallapartmentquery.cs
+++GetApartmentByAdressQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getapartmentbyadressquery.cs
+++GetApartmentByAdressValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getapartmentbyadressvalidator.cs
+++GetApartmentByIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getapartmentbyidquery.cs
+++GetApartmentByIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getapartmentbyidvalidator.cs
+++GetApartmentModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\apartmentoperations\queries\getapatment\getapartmentmodel.cs
+++AddDebtCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\adddebt\adddebtcommand.cs
+++AddDebtModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\adddebt\adddebtmodel.cs
+++AddDebtValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\adddebt\adddebtvalidator.cs
+++ChangeDebtCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\changedebtcommand.cs
+++ChangeDebtModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\changedebtmodel.cs
+++ChangeDebtValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\changedebtvalidator.cs
+++PayDebtCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\paydebtcommand.cs
+++PayDebtValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\changedebt\paydebtvalidator.cs
+++DeleteDebtCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\deltedebt\deletedebtcommand.cs
+++DeleteDebtValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\commands\deltedebt\deletedebtvalidator.cs
+++GetAllDebtQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\getdebt\getalldebtquery.cs
+++GetDebtByUserIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\getdebt\getdebtbyuseridquery.cs
+++GetDebtByUserIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\getdebt\getdebtbyuseridvalidator.cs
+++GetDebtModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\debtoperations\queries\getdebt\getdebtmodel.cs
+++AddMessageCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\addmessage\addmessagecommand.cs
+++AddMessageModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\addmessage\addmessagemodel.cs
+++AddMessageValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\addmessage\addmessagevalidator.cs
+++ChangeMessageCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\changemessagecommand.cs
+++ChangeMessageModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\changemessagemodel.cs
+++ChangeMessageValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\changemessagevalidator.cs
+++ReadMessageCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\readmessagecommand.cs
+++ReadMessageValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\changemessage\readmessagevalidator.cs
+++DeleteMessageCommand.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\deletemessage\deletemessagecommand.cs
+++DeleteMessageValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\commands\deletemessage\deletemessagevalidator.cs
+++GetAllMessageQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getallmessagequery.cs
+++GetMessageByIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebyidquery.cs
+++GetMessageByIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebyidvalidator.cs
+++GetMessageByReciverIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebyreciveridquery.cs
+++GetMessageByReciverIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebyreciveridvalidator.cs
+++GetMessageBySenderIdAndReciverIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebysenderidandreciveridquery.cs
+++GetMessageBySenderIdAndReciverIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebysenderidandreciveridvalidator.cs
+++GetMessageBySenderIdQuery.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebysenderidquery.cs
+++GetMessageBySenderIdValidator.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagebysenderidvalidator.cs
+++GetMessageModel.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\operations\messageoperations\queries\getmeesage\getmessagemodel.cs
+++Microsoft.NuGet.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++Microsoft.NET.props
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++NewFolder
+++Services
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\services\
+++TokenService.cs
+i:{d79ee528-8aed-41ca-a861-5f8d37b52e35}:c:\users\ridva\onedrive\belgeler\visual studio repos\source\repos\sitemanagementapp\sitemanagementapplication\services\tokenservice.cs

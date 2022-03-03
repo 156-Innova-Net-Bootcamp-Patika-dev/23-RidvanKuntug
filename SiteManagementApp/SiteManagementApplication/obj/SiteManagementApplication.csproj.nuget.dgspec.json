@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementApplication\\SiteManagementApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementApplication\\SiteManagementApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementApplication\\SiteManagementApplication.csproj",
+        "projectName": "SiteManagementApplication",
+        "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementApplication\\SiteManagementApplication.csproj",
+        "packagesPath": "C:\\Users\\ridva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ridva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj": {
+                "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj"
+              },
+              "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\SiteManagementInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\SiteManagementInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj",
+        "projectName": "SiteManagementDomain",
+        "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj",
+        "packagesPath": "C:\\Users\\ridva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ridva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\SiteManagementInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\SiteManagementInfrastructure.csproj",
+        "projectName": "SiteManagementInfrastructure",
+        "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\SiteManagementInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\ridva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ridva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj": {
+                "projectPath": "C:\\Users\\ridva\\OneDrive\\Belgeler\\Visual Studio Repos\\Source\\Repos\\SiteManagementApp\\SiteManagementDomain\\SiteManagementDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

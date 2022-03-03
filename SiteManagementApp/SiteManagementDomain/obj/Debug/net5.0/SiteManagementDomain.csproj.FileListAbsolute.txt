@@ -1,0 +1,12 @@
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.csproj.AssemblyReference.cache
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.AssemblyInfoInputs.cache
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.AssemblyInfo.cs
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.csproj.CoreCompileInputs.cache
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\bin\Debug\net5.0\SiteManagementDomain.deps.json
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\bin\Debug\net5.0\SiteManagementDomain.dll
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\bin\Debug\net5.0\SiteManagementDomain.pdb
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.dll
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\refint\SiteManagementDomain.dll
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\SiteManagementDomain.pdb
+C:\Users\ridva\OneDrive\Belgeler\Visual Studio Repos\Source\Repos\SiteManagementApp\SiteManagementDomain\obj\Debug\net5.0\ref\SiteManagementDomain.dll
